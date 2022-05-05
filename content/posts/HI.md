@@ -7,4 +7,4 @@ draft: false
 
 HI 隆隆！
 
-![hi](/HI/1.jpg)
+![hi](/img/hi.jpg)
