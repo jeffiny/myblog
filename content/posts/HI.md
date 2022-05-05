@@ -7,4 +7,4 @@ draft: false
 
 HI 隆隆！
 
-![hi](https://github.com/jeffiny/myblog/blob/main/content/posts/HI/1.jpg)
+![hi](/HI/1.jpg)
